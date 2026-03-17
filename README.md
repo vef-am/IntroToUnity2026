@@ -1,4 +1,4 @@
-# Intro to Unity 2025
+# Intro to Unity 2026
 
 [![Unity](https://img.shields.io/badge/Unity-6000+-black?logo=unity&logoColor=white)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-Learning-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
