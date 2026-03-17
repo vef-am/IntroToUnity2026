@@ -63,6 +63,12 @@ This project is **not open-source**. All rights are reserved by the author. You 
 
 See [LICENSE](LICENSE) for full terms.
 
+### Course Note
+
+Course ownership and original teaching material belong to Zenva.
+
+If you are taking the same course, I recommend building each scene yourself for the best learning results.
+
 ### Credits
 
 - Course content and learning path by Zenva
@@ -120,6 +126,12 @@ Este proyecto contiene práctica práctica de los flujos de trabajo principales 
 Este proyecto **no es open-source**. Todos los derechos están reservados por el autor. Puedes ver este repositorio con fines de evaluación/reclutamiento, pero no puedes copiar, modificar, redistribuir o usar el código/recursos sin permiso escrito explícito.
 
 Consulta [LICENSE](LICENSE) para los términos completos.
+
+### Nota sobre el curso
+
+La titularidad del curso y el material original de enseñanza pertenecen a Zenva.
+
+Si estás tomando el mismo curso, te recomiendo construir cada escena por tu cuenta para obtener mejores resultados de aprendizaje.
 
 ### Créditos
 
