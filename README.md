@@ -3,7 +3,7 @@
 [![Unity](https://img.shields.io/badge/Unity-6000+-black?logo=unity&logoColor=white)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-Learning-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![Course](https://img.shields.io/badge/Course-Unity%20101%20(Zenva)-0A66C2)](https://academy.zenva.com/)
-[![Status](https://img.shields.io/badge/Status-In%20Progress-F59E0B)](#)
+[![Status](https://img.shields.io/badge/Status-Completed-22C55E)](#)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)](LICENSE)
 
 A personal learning project built while following **Unity 101 – Game Development Foundations** by **Zenva**.
@@ -25,6 +25,27 @@ This repository is intended for **portfolio and recruiter review purposes only**
 ### About This Project
 
 This project contains hands-on practice with core Unity workflows, including project setup, editor navigation, scene management, GameObject manipulation, materials, lighting, physics, and introductory C# scripting.
+
+### Course Completion Update
+
+I have completed **Unity 101 – Game Development Foundations**.
+
+New completed work in this repository includes:
+
+- Built and organized a playable practice scene in `Assets/Scenes/SampleScene.unity`
+- Created reusable Prefabs in `Assets/Prefabs/`:
+	- `Player.prefab`
+	- `Stickman_Figure.prefab`
+	- `Sword.prefab`
+	- `Materials_Sample.prefab`
+- Created and applied custom materials in `Assets/Materials/`:
+	- `Blue.mat`
+	- `Green.mat`
+	- `Red.mat`
+- Implemented and tested a first gameplay script in `Assets/MyFirstScript.cs` with:
+	- frame-based movement using `Time.deltaTime`
+	- custom methods (`LogToConsole`, `Add`)
+	- practice blocks for variables, operators, conditions, functions, and vectors
 
 ### What I Learned
 
@@ -89,6 +110,27 @@ If you are taking the same course, I recommend building each scene yourself for 
 ### Sobre Este Proyecto
 
 Este proyecto contiene práctica práctica de los flujos de trabajo principales en Unity, incluyendo configuración de proyecto, navegación del editor, gestión de escenas, manipulación de GameObjects, materiales, iluminación, física e introducción al scripting en C#.
+
+### Actualización de Finalización del Curso
+
+He finalizado **Unity 101 – Game Development Foundations**.
+
+Nuevos resultados completados en este repositorio:
+
+- Construcción y organización de una escena de práctica jugable en `Assets/Scenes/SampleScene.unity`
+- Creación de Prefabs reutilizables en `Assets/Prefabs/`:
+	- `Player.prefab`
+	- `Stickman_Figure.prefab`
+	- `Sword.prefab`
+	- `Materials_Sample.prefab`
+- Creación y aplicación de materiales personalizados en `Assets/Materials/`:
+	- `Blue.mat`
+	- `Green.mat`
+	- `Red.mat`
+- Implementación y prueba de un primer script de gameplay en `Assets/MyFirstScript.cs` con:
+	- movimiento por frame usando `Time.deltaTime`
+	- métodos personalizados (`LogToConsole`, `Add`)
+	- bloques de práctica de variables, operadores, condicionales, funciones y vectores
 
 ### Lo Que Aprendí
 
